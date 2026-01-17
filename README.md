@@ -16,6 +16,6 @@
   PNB（Probabilistic Neutral Bits）集合を入力として、後方方向の偏りを測定する。
 
 ※各コードの実ファイル名は以下に対応付けて記載する。  
-- コード1：IDODscan.cpp /  順方向バイアス測定
+- コード1：forward bias.cpp /  順方向バイアス測定
 - コード2：IDOD key neurality.cpp /  鍵ビット中立度測定
 - コード3：backward bias.cpp /後方バイアス測定
